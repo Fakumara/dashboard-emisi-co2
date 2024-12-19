@@ -55,7 +55,7 @@ st.sidebar.markdown(
     f"""
     <div style="padding: 15px; border-radius: 5px; background-color: #FFD700; color: #000; text-align: center;">
         <h3>Total carbon footprint</h3>
-        <h1 style="font-size: 36px;">{total_emissions:,.2f} tCO₂e</h1>
+        <h1 style="font-size: 36px;">{total_emissions:,.2f} kCO₂e</h1>
         <p>Equivalent to {total_emissions * 33.3:.0f} Mangrove trees in 8 years of lifespan</p>
     </div>
     """,
@@ -66,12 +66,12 @@ st.sidebar.markdown(
     f"""
     <div style="margin-top: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
         <h4>Emission scope 1</h4>
-        <h2>{total_emissions_scope1:,.2f} tCO₂e</h2>
+        <h2>{total_emissions_scope1:,.2f} kCO₂e</h2>
         <p>Emisi langsung</p>
     </div>
     <div style="margin-top: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
         <h4>Emission scope 3</h4>
-        <h2>{total_emissions_scope3:,.2f} tCO₂e</h2>
+        <h2>{total_emissions_scope3:,.2f} kCO₂e</h2>
         <p>Emisi tidak langsung (transportasi pihak ketiga).</p>
     </div>
     """,
