@@ -1,0 +1,21 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Jakarta,-6.1750,106.8275,Indonesia,ID,Jakarta,primary,33756000,10154134
+Surabaya,-7.2458,112.7378,Indonesia,ID,Jawa Timur,admin,6998000,2885555
+Medan,3.5894,98.6739,Indonesia,ID,Sumatera Utara,admin,3632000,2109330
+Malang,-7.9800,112.6200,Indonesia,ID,Jawa Timur,,2795209,866118
+Bekasi,-6.2349,106.9923,Indonesia,ID,Jawa Barat,,2590257,2590257
+Bekasi Kota,-6.2333,107.0000,Indonesia,ID,Jawa Barat,,2381053,2381053
+Tangerang,-6.1703,106.6403,Indonesia,ID,Jawa Barat,,2237006,2237006
+Depok,-6.3940,106.8225,Indonesia,ID,Jawa Barat,,2123349,2123349
+Semarang,-6.9900,110.4225,Indonesia,ID,Jawa Tengah,admin,1621384,1621384
+Palembang,-2.9861,104.7556,Indonesia,ID,Sumatera Selatan,admin,1535952,1535952
+Sangereng,-6.2889,106.7181,Indonesia,ID,Jawa Barat,,1378466,1378466
+Makassar,-5.1619,119.4362,Indonesia,ID,Sulawesi Selatan,admin,1338663,1338663
+Bagam,1.1300,104.0531,Indonesia,ID,Kepulauan Riau,,1269820,1269820
+Sumedang,-6.8400,107.9208,Indonesia,ID,Jawa Barat,,1240000,1240000
+Batam Centre,1.1300,104.0531,Indonesia,ID,Kepulauan Riau,,1196396,1196396
+Cilacap,-7.7167,109.0170,Indonesia,ID,Jawa Tengah,minor,1174964,1174964
+Bandar Lampung,-5.4500,105.2667,Indonesia,ID,Lampung,admin,1166761,1166761
+Bogor,-6.5966,106.7972,Indonesia,ID,Jawa Barat,,1127408,1127408
+Gubeng,-7.2729,112.7493,Indonesia,ID,Jawa Timur,,133900,133900
+Cakung,-6.2138,106.9473,Indonesia,ID,Jakarta,,39126,39126
